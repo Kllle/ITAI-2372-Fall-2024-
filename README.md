@@ -13,3 +13,10 @@ Course Focus Areas
 - Innovative Projects: Developing AI-driven solutions through project-based learning.
 - Interdisciplinary Case Studies: Investigating industry-specific AI advancements and trends.
 - Ethical Considerations: Reflecting on AI’s social impact and responsible innovation.
+
+
+Skills & Tools Gained
+- Research & Reporting: Industry analysis, technical documentation, and case study evaluation
+- Critical Thinking & Problem-Solving: Tackling real-world challenges using AI-driven methods
+
+Repository Overview

@@ -20,3 +20,5 @@ Skills & Tools Gained
 - Critical Thinking & Problem-Solving: Tackling real-world challenges using AI-driven methods
 
 Repository Overview
+- Labs/ – Hands-on AI labs demonstrating practical applications and technical skills
+- Assignments/ – Course assignments covering AI concepts, research, and case studies
